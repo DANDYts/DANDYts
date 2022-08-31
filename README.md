@@ -1,11 +1,11 @@
 <h1 align="center">Hola 👋 soy ARTURO MENDEZ</h1>
 <h3 align="center">Soy un programador aficionado de México 🇲🇽</h3>
 
-- Actualmente estoy trabajando en *PROGRAMAS*
+- Actualmente estoy trabajando en *CECYTEM*
 
-- Actualmente estoy aprendiendo **JS, PHP, PHYTON**💻
+- Actualmente estoy aprendiendo **GITHUB, JS, PHP, PHYTON**💻
 
-- Busco colaborar en **EMPRESAS**⌨️
+- Busco colaborar en **CECYTEM**⌨️
 
 - Todos mis proyectos están disponibles en👨‍💻 [Github](Github )
 
