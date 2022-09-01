@@ -22,7 +22,9 @@
 <p align="left">
 <a href="https://www.facebook.com/profile.php?id=100010089014202
 <a href="https://twitter.com/@showtemerario" target="blank"><img align= "center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@showtemerario" height="30 " width="40" /></a>
-
+<a href="https://fb.com/karol 18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="karol 18" height="30" width="40" /></a>
+<a href="https://instagram.com/karol18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator /master/src/images/icons/Social/instagram.svg" alt="karol18" height="30" width="40" /></a>
+</p>
 
 
 <h3 align="left">Idiomas y herramientas:</h3>
